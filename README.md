@@ -7,8 +7,8 @@
 
 ### Stats
 <p>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevinongko&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevinongko&theme=synthwave&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevinongko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=contribs"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevinongko&theme=algolia&layout=compact&langs_count=8"/>
 </p>
 
 ### Social media
