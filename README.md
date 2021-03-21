@@ -5,10 +5,10 @@
 - 💬 Ask me about gaming, software development or maybe you can hire me to help you with your project.
 - 📫 You can reach me at kevin.ongko@gmail.com
 
-### Stats
+### Stat
 <p>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevinongko&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevinongko&theme=synthwave&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevinongko&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide=stars,commits,prs,issues,contribs"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevinongko&theme=onedark&layout=compact&langs_count=8"/>
 </p>
 
 ### Social media
