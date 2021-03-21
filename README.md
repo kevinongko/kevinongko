@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 💻 I work in e-commerce industry since 2012
 - 🕹️ Video gaming is my favourite hobby, love retro and modern games
 - 💬 Ask me about gaming or software development stuff
