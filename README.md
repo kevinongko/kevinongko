@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💻 I work in e-commerce industry and freelancing since 2012
-- 🕹️ Video gaming is my favourite hobby, love both retro and modern games
+- 🕹️ Gaming is my favourite hobby, love both video and board games
 - 💬 Ask me about gaming, software development or maybe you need help with your project.
 - 📫 You can reach me at kevin.ongko@gmail.com
 
